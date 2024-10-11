@@ -1,0 +1,30 @@
+.banner-store {
+  position: relative;
+  height: 90vh;
+  margin-top: 2vh;
+  background-image: url("../../assets/images/store.webp");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid rgb(5, 5, 5);
+}
+
+.banner-store__overlay {
+  position: absolute;
+  text-align: center;
+  color: rgb(250, 250, 250);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.banner-store h2 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.banner-store p {
+  font-size: 1.5rem;
+  margin: 10px 0 0;
+}

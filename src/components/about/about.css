@@ -1,0 +1,48 @@
+.about {
+  display: flex;
+}
+
+.about__picture {
+  margin-top: 2vh;
+  margin-right: 0.5vw;
+  height: 80vh;
+  width: 50%;
+  border: 5px solid rgb(5, 5, 5);
+}
+
+.about__picture img {
+  width: 100%;
+  height: 100%;
+}
+
+.about__description {
+  margin-top: 2vh;
+  margin-left: 0.5vw;
+  height: 80vh;
+  width: 50%;
+  border: 5px solid rgb(5, 5, 5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 80px;
+  gap: 30px;
+}
+
+.about__description p{
+  font-size: 4rem;
+  font-weight: 800;
+}
+
+.about__description h2{
+  font-size: 2.4rem;
+  font-weight: 600;
+}
+
+.about__description h3{
+  font-weight: 400;
+  font-size: 1.8rem;
+}
+
+.about__description h4{
+  font-size: 2.4rem;
+}

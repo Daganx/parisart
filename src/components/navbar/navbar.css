@@ -1,0 +1,40 @@
+.navbar {
+  width: 100%;
+  height: 6vh;
+  border: 4px solid rgb(5, 5, 5);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.navbar__logo {
+  height: 100%;
+  width: 50px;
+}
+
+.logo {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar__name {
+  width: 100%;
+  padding-left: 2rem;
+}
+
+.navbar__links-list {
+  display: flex;
+  gap: 40px;
+  font-size: 1.4rem;
+}
+
+.navbar__links-list a{
+  color: black;
+}
+
+.navbar__links-list li:hover, a:hover {
+  color: #58b789;
+  cursor: pointer;
+}

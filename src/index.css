@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Lexend";
+  src: url("./assets/fonts/Lexend/Lexend-VariableFont_wght.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Lexend";
+}
+
+#root {
+  padding: 10px;
+}
+
+.products {
+  border: 5px solid black;
+  margin-top: 2vh;
+  height: 6vh;
+  display: flex;
+  align-items: center;
+  padding-left: 2rem;
+  font-size: 1.4rem;
+}

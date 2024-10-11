@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "title": "LUCK",
+    "type": "Acrylic on high-quality canvas with a woodden frame",
+    "size": "30 H x 30 W cm",
+    "created": "2024, Kaunas, LT",
+    "description": "The painting depicts a four-leaf clover, with each leaf symbolizing a different element: air, water, earth and fire. These elements convey the idea that success is not merely a coincidence but a harmonious result.",
+    "image": ["/assets/images/paintings/Luke/Clover.webp"]
+  },
+  {
+    "id": "2",
+    "title": "EXTRA MILE",
+    "type": "Acrylic on high-quality canvas with a woodden frame",
+    "size": "50 H x 50 W cm",
+    "created": "2024, Kaunas, LT",
+    "description": "The painting explores the theme of physical and mental health. The extra mile symbolizes the rewards that come from the effort to surpass one’s limits, illustrating that significant achievements often do not come easily but are the result of additional hard work.",
+    "image": [
+      "/assets/images/paintings/ExtraMile/ExtraMile.jpg",
+      "/assets/images/paintings/ExtraMile/ExtraMile2.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "GROWTH",
+    "type": "Acrylic on high-quality canvas with a woodden frame",
+    "size": "100 H x 100 W cm",
+    "created": "2024, Kaunas, LT",
+    "description": "The painting represents the search for new horizons and opportunities. The tree symbolizes growth and development, while the ocean signifies limitless possibilities.",
+    "image": [
+      "/assets/images/paintings/Growth/Growth.jpg",
+      "/assets/images/paintings/Growth/Growth2.webp",
+      "/assets/images/paintings/Growth/Growth3.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "OCULUS",
+    "type": "Acrylic on high-quality canvas with a woodden frame",
+    "size": "100 H x 100 W cm",
+    "created": "2024, Kaunas, LT",
+    "description": "The painting explores themes of connection and family. It invites introspection about what you have created and left behind, capturing the essence of life's journey and relationships.",
+    "image": [
+      "/assets/images/paintings/Oculus/Oculus.webp",
+      "/assets/images/paintings/Oculus/Oculus2.webp",
+      "/assets/images/paintings/Oculus/Oculus3.webp"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "RANGER",
+    "type": "Acrylic on high-quality canvas with a woodden frame",
+    "size": "150 H x 80 W cm",
+    "created": "2024, Kaunas, LT",
+    "description": "The painting is inspired by the phrases 'march to the beat of your own drum' and 'soar like an eagle.' It symbolizes self-confidence, a bird's perspective on life, and clarity in vision and goals. The eagle represents the determination to pursue one’s desires, reflecting the role of a guardian of nature—the embodiment of freedom and purpose.",
+    "image": [
+      "/assets/images/paintings/Ranger/Ranger.webp",
+      "/assets/images/paintings/Ranger/Ranger2.webp",
+      "/assets/images/paintings/Ranger/Ranger3.webp"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "TIMEKEEPER",
+    "type": "Acrylic on high-quality canvas with a woodden frame",
+    "size": "100 H x 100 W cm",
+    "created": "2024, Kaunas, LT",
+    "description": "The painting explores the theme of time, depicting a peculiar character who one morning says, “There is still a whole life ahead” and the next, “I don’t know how much time I have left.” The lack of water symbolizes a dry, fleeting time that rushes by unexpectedly.",
+    "image": [
+      "/assets/images/paintings/TimeKeeper/TimeKeeper.jpg",
+      "/assets/images/paintings/TimeKeeper/TimeKeeper2.webp",
+      "/assets/images/paintings/TimeKeeper/TimeKeeper3.webp"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "TODIEFOR",
+    "type": "Acrylic on high-quality canvas with a woodden frame",
+    "size": "50 H x 50 W cm",
+    "created": "2024, Kaunas, LT",
+    "description": "The painting about wealth features two wine glasses—red (king) and white (queen)—colliding on a chessboard. This clash celebrates top-tier players from different kingdoms who experience the most precious pleasures of life, so exquisite that they are truly “worth dying for.",
+    "image": [
+      "/assets/images/paintings/ToDieFor/Wine.jpg",
+      "/assets/images/paintings/ToDieFor/Wine2.webp",
+      "/assets/images/paintings/ToDieFor/Wine3.webp"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "RIVIERA",
+    "type": "Acrylic on high-quality canvas with a woodden frame",
+    "size": "150 H x 150 W cm",
+    "created": "2024, Kaunas, LT",
+    "description": "The painting explores the universal longing to be loved, the power of touch, and the allure of the deep sea.",
+    "image": [
+      "/assets/images/paintings/Riviera/Riviera.webp",
+      "/assets/images/paintings/Riviera/Riviera2.webp",
+      "/assets/images/paintings/Riviera/Riviera3.webp"
+    ]
+  }
+]

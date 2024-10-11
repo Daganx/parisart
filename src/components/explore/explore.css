@@ -1,0 +1,61 @@
+.explore {
+  display: flex;
+}
+
+.explore__picture {
+  margin-top: 2vh;
+  margin-left: 0.5vw;
+  height: 80vh;
+  width: 50%;
+  border: 5px solid rgb(5, 5, 5);
+}
+
+.explore__picture img {
+  width: 100%;
+  height: 100%;
+}
+
+.explore__description {
+  margin-top: 2vh;
+  margin-right: 0.5vw;
+  height: 80vh;
+  width: 50%;
+  border: 5px solid rgb(5, 5, 5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 80px;
+  gap: 30px;
+}
+
+.explore__description p {
+  font-size: 4rem;
+  font-weight: 800;
+}
+
+.explore__description h2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+}
+
+.explore__description h3 {
+  font-weight: 400;
+  font-size: 1.8rem;
+}
+
+.explore__button {
+  width: 30%;
+  padding: 10px;
+  border: 2px solid rgb(5, 5, 5);
+  background-color: transparent;
+  cursor: pointer;
+  text-align: center;
+  color: rgb(5, 5, 5);
+  background-color: #58b789;
+}
+
+.explore__button:hover {
+  background-color: #58b789;
+  filter: brightness(1.3);
+  color: black;
+}

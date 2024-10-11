@@ -1,0 +1,25 @@
+.gallery {
+  margin-top: 2vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+
+.painting {
+  border: 5px solid black;
+  height: 440px;
+  position: relative;
+}
+
+.painting img {
+  height: 100%;
+  width: 100%;
+}
+
+.painting h2 {
+  position: absolute;
+  bottom: 0;
+  left: 24px;
+  color: white;
+}
