@@ -13,7 +13,7 @@ export default function About() {
         <h3>
           An artistic graphic designer specializing in visual identities,
           packaging design, and illustration, with a focus on sustainability,
-          wellness, education, and cultural projects.
+          wellness and cultural projects.
         </h3>
         <h4>Let's get in touch!</h4>
       </div>

@@ -24,27 +24,27 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 80px;
-  gap: 30px;
+  padding: 50px;
+  gap: 20px;
 }
 
 .explore__description p {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 800;
 }
 
 .explore__description h2 {
-  font-size: 2.4rem;
+  font-size: 1.9rem;
   font-weight: 600;
 }
 
 .explore__description h3 {
   font-weight: 400;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
 }
 
 .explore__button {
-  width: 30%;
+  width: 40%;
   padding: 10px;
   border: 2px solid rgb(5, 5, 5);
   background-color: transparent;

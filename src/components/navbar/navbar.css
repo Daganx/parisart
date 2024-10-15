@@ -24,17 +24,22 @@
   padding-left: 2rem;
 }
 
+.navbar__name a {
+  color: black;
+}
+
 .navbar__links-list {
   display: flex;
   gap: 40px;
   font-size: 1.4rem;
 }
 
-.navbar__links-list a{
+.navbar__links-list a {
   color: black;
 }
 
-.navbar__links-list li:hover, a:hover {
+.navbar__links-list li:hover,
+a:hover {
   color: #58b789;
   cursor: pointer;
 }

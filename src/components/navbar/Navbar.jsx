@@ -17,7 +17,9 @@ export default function Navbar() {
         <img src={avatar} alt="logo de Paris.Art" className="logo" />
       </div>
       <div className="navbar__name">
-        <h1>PARIS.ART</h1>
+        <Link to="/">
+          <h1>PARIS.ART</h1>
+        </Link>
       </div>
       <div className="navbar__links">
         <ul className="navbar__links-list">
@@ -25,7 +27,7 @@ export default function Navbar() {
           <li onClick={toggleModal}>CONTACT</li>
         </ul>
       </div>
-      
+
       <Contact isOpen={isModalOpen} toggleModal={toggleModal} />
     </nav>
   );

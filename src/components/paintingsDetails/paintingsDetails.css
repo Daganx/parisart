@@ -1,0 +1,24 @@
+.painting-details__container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  border: 4px solid black;
+  gap: 20px;
+}
+
+.painting-details__container h3 {
+  border-bottom: 4px solid black;
+}
+
+.painting__container {
+  height: 100%;
+  width: 100%;
+}
+.painting__image {
+  border: 4px solid black;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
